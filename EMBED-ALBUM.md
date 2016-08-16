@@ -1,4 +1,4 @@
-LBUM #
+# EMBED ALBUM
 
 This code lets you embed an Eversnap album directly on your website.
 
